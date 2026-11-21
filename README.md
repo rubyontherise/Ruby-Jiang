@@ -1,12 +1,10 @@
 # Hi, I’m Ruby
-
+- Harvard Westlake '31
+- Industry Dance Academy
+  
 ## Tools I’ve used
 - Markdown: I organized a README with headings and links.
 
-
-## Related experience
-- Harvard Westlake '31
-- Industry Dance Academy
 ## What I’m learning next
 I'm learning how to use AI
 
